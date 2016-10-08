@@ -1,0 +1,12 @@
+D:\Projects\VSProj\WkWArrays\WkWArrays\bin\Debug\WkWArrays.exe.config
+D:\Projects\VSProj\WkWArrays\WkWArrays\bin\Debug\WkWArrays.exe
+D:\Projects\VSProj\WkWArrays\WkWArrays\bin\Debug\WkWArrays.pdb
+D:\Projects\VSProj\WkWArrays\WkWArrays\obj\Debug\WkWArrays.csprojResolveAssemblyReference.cache
+D:\Projects\VSProj\WkWArrays\WkWArrays\obj\Debug\WkWArrays.exe
+D:\Projects\VSProj\WkWArrays\WkWArrays\obj\Debug\WkWArrays.pdb
+D:\Users7\User\Desktop\WkWArrays\WkWArrays\WkWArrays\bin\Debug\WkWArrays.exe.config
+D:\Users7\User\Desktop\WkWArrays\WkWArrays\WkWArrays\obj\Debug\WkWArrays.exe
+D:\Users7\User\Desktop\WkWArrays\WkWArrays\WkWArrays\obj\Debug\WkWArrays.pdb
+D:\Users7\User\Desktop\WkWArrays\WkWArrays\WkWArrays\bin\Debug\WkWArrays.exe
+D:\Users7\User\Desktop\WkWArrays\WkWArrays\WkWArrays\bin\Debug\WkWArrays.pdb
+D:\Users7\User\Desktop\WkWArrays\WkWArrays\WkWArrays\obj\Debug\WkWArrays.csprojResolveAssemblyReference.cache
