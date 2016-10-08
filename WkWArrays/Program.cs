@@ -12,6 +12,11 @@ namespace WkWArrays
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Test message");
+
+
+
             int i_arr_width = 5, i_arr_height = 5, i_maxval = 0, i_minval = 0, i_maxwidth = 0, i_maxheght = 0;
             int i_minwidth = 0, i_minheight = 0, vvod = -1, i_srx = -1, i_sry = -1, i_srnum = 0;
             int[,] save_arr = new int[i_arr_width, i_arr_height];
@@ -30,7 +35,7 @@ namespace WkWArrays
                 {
                     default:
                         {
-                            Console.WriteLine("Введено неверное значение!\n");
+                            
                             break;
                         }
                     case 0:
